@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name flipdotUSV-cache)(type Legacy)(uri C:/Users/rausch/Documents/Docs/KICAD_Projekte/flipdot-USV/flipdotUSV-cache.lib)(options "")(descr ""))
+  (lib (name tpic6c596)(type Legacy)(uri C:/Users/rausch/Documents/Docs/KICAD_Projekte/rausch_lib/tpic6c596.lib)(options "")(descr ""))
+  (lib (name ATU_0-rescue)(type Legacy)(uri ${KIPRJMOD}/ATU_0-rescue.lib)(options "")(descr ""))
+)

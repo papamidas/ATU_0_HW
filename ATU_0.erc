@@ -1,0 +1,19 @@
+ERC-Bericht (07.09.2019 16:46:06, Kodierung UTF8 )
+
+***** Schaltplan /
+ErrType(12): Ein anderes Netz ist mit einem gemeinsamen Anschluss in einer anderen Einheit des gleichen Bauteils verbunden
+    @(148,59 mm, 62,23 mm): Pin 1 auf U2 ist zu beiden verbunden, +5V und Net-(U2-Pad1)
+
+***** Schaltplan /Lsektion/
+ErrType(12): Ein anderes Netz ist mit einem gemeinsamen Anschluss in einer anderen Einheit des gleichen Bauteils verbunden
+    @(87,63 mm, 34,29 mm): Pin 1 auf U3 ist zu beiden verbunden, +5V und Net-(U3-Pad1)
+ErrType(12): Ein anderes Netz ist mit einem gemeinsamen Anschluss in einer anderen Einheit des gleichen Bauteils verbunden
+    @(196,85 mm, 34,29 mm): Pin 1 auf U4 ist zu beiden verbunden, +5V und Net-(U4-Pad1)
+
+***** Schaltplan /Csektion/
+ErrType(12): Ein anderes Netz ist mit einem gemeinsamen Anschluss in einer anderen Einheit des gleichen Bauteils verbunden
+    @(93,98 mm, 34,29 mm): Pin 1 auf U5 ist zu beiden verbunden, +5V und Net-(U5-Pad1)
+ErrType(12): Ein anderes Netz ist mit einem gemeinsamen Anschluss in einer anderen Einheit des gleichen Bauteils verbunden
+    @(203,20 mm, 34,29 mm): Pin 1 auf U6 ist zu beiden verbunden, +5V und Net-(U6-Pad1)
+
+ ** ERC Meldungen: 5  Fehler 5  Warnungen 0
