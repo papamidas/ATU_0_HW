@@ -1,6 +1,6 @@
 # ATU_0_HW
 
-Antenna Tuning Unit for Radio Amateurs, inspired by OK1FIG:
+HF Antenna Tuner for Radio Amateurs, inspired by OK1FIG:
 
 - LC- or CL-type antenna tuner, software selectable
 - 256 capacitance values
