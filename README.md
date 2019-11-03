@@ -9,7 +9,7 @@ Antenna Tuning Unit for Radio Amateurs, inspired by OK1FIG:
 - powered by a USB power bank
 - low current consumption (25..45 mA) by using bistable relays
 - remote control via Bluetooth
-- simple user interface using the Android app "serial bluetooth terminal"
+- simple user interface using, e.g., the Android app "serial bluetooth terminal" by Kai Morich
 - 10 memory buttons for recalling setups for different frequency bands
 - open source hardware, open source firmware
 
