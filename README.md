@@ -13,6 +13,9 @@ HF Antenna Tuner for Radio Amateurs, inspired by OK1FIG:
 - 10 memory buttons for recalling setups for different frequency bands
 - open source hardware, open source firmware
 
+![ATU_0_TOP](https://github.com/papamidas/ATU_0_HW/blob/master/20191103_131727.jpg "TOP")
+![ATU_0_BOTTOM](https://github.com/papamidas/ATU_0_HW/blob/master/20191103_131837.jpg "BOTTOM")
+
 have fun!
 73
 papamidas (DM1CR)
