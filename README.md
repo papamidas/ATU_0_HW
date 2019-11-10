@@ -3,8 +3,8 @@
 HF Antenna Tuner for Radio Amateurs, inspired by OK1FIG:
 
 - LC- or CL-type antenna tuner, software selectable
-- 256 capacitance values
-- 256 inductance values
+- 256 capacitance values: 0..2.5 nF in steps of 10 pF
+- 256 inductance values: 0..15 µH in steps of 60 nH
 - controlled by an Arduino Nano
 - powered by a USB power bank
 - low current consumption (25..45 mA) by using bistable relays
