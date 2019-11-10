@@ -5,11 +5,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 3
-Title ""
-Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Title "ATU_0"
+Date "2019-11-03"
+Rev "1"
+Comp "DM1CR (Christian Rausch aka papamidas)"
+Comment1 "HF Antenna Tuner"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -232,25 +232,25 @@ F 3 "" H 5300 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2950 2150 2950 2200
+	2950 2150 2950 2250
 Wire Wire Line
-	2950 2200 1300 2200
+	2950 2250 1300 2250
 Wire Wire Line
-	1300 2200 1300 3200
+	1300 2250 1300 3200
 Wire Wire Line
 	1300 3200 1450 3200
 Wire Wire Line
 	2050 3200 2200 3200
 Wire Wire Line
-	2200 3200 2200 2250
+	2200 3200 2200 2350
 Wire Wire Line
-	2200 2250 3050 2250
+	2200 2350 3050 2350
 Wire Wire Line
-	3050 2250 3050 2150
+	3050 2350 3050 2150
 Wire Wire Line
-	2300 3200 2300 2300
+	2300 3200 2300 2450
 Wire Wire Line
-	3150 2300 3150 2150
+	3150 2450 3150 2150
 Wire Wire Line
 	3150 3200 3250 3200
 Wire Wire Line
@@ -262,29 +262,29 @@ Wire Wire Line
 Wire Wire Line
 	4200 3200 4300 3200
 Wire Wire Line
-	4300 3200 4300 2300
+	4300 3200 4300 2450
 Wire Wire Line
-	4300 2300 3450 2300
+	4300 2450 3450 2450
 Wire Wire Line
-	3450 2300 3450 2150
+	3450 2450 3450 2150
 Wire Wire Line
 	4700 3200 4400 3200
 Wire Wire Line
-	4400 3200 4400 2250
+	4400 3200 4400 2350
 Wire Wire Line
-	4400 2250 3550 2250
+	4400 2350 3550 2350
 Wire Wire Line
-	3550 2250 3550 2150
+	3550 2350 3550 2150
 Wire Wire Line
 	5300 3200 5450 3200
 Wire Wire Line
-	5450 3200 5450 2200
+	5450 3200 5450 2250
 Wire Wire Line
-	5450 2200 3650 2200
+	5450 2250 3650 2250
 Wire Wire Line
-	3650 2200 3650 2150
+	3650 2250 3650 2150
 Wire Wire Line
-	2300 2300 3150 2300
+	2300 2450 3150 2450
 Wire Wire Line
 	2300 3200 2550 3200
 $Comp
@@ -544,25 +544,25 @@ F 3 "" H 9600 3000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7250 2150 7250 2200
+	7250 2150 7250 2250
 Wire Wire Line
-	7250 2200 5600 2200
+	7250 2250 5600 2250
 Wire Wire Line
-	5600 2200 5600 3200
+	5600 2250 5600 3200
 Wire Wire Line
 	5600 3200 5750 3200
 Wire Wire Line
 	6350 3200 6500 3200
 Wire Wire Line
-	6500 3200 6500 2250
+	6500 3200 6500 2350
 Wire Wire Line
-	6500 2250 7350 2250
+	6500 2350 7350 2350
 Wire Wire Line
-	7350 2250 7350 2150
+	7350 2350 7350 2150
 Wire Wire Line
-	6600 3200 6600 2300
+	6600 3200 6600 2450
 Wire Wire Line
-	7450 2300 7450 2150
+	7450 2450 7450 2150
 Wire Wire Line
 	7450 3200 7550 3200
 Wire Wire Line
@@ -574,45 +574,45 @@ Wire Wire Line
 Wire Wire Line
 	8500 3200 8600 3200
 Wire Wire Line
-	8600 3200 8600 2300
+	8600 3200 8600 2450
 Wire Wire Line
-	8600 2300 7750 2300
+	8600 2450 7750 2450
 Wire Wire Line
-	7750 2300 7750 2150
+	7750 2450 7750 2150
 Wire Wire Line
 	9000 3200 8700 3200
 Wire Wire Line
-	8700 3200 8700 2250
+	8700 3200 8700 2350
 Wire Wire Line
-	8700 2250 7850 2250
+	8700 2350 7850 2350
 Wire Wire Line
-	7850 2250 7850 2150
+	7850 2350 7850 2150
 Wire Wire Line
 	9600 3200 9750 3200
 Wire Wire Line
-	9750 3200 9750 2200
+	9750 3200 9750 2250
 Wire Wire Line
-	9750 2200 7950 2200
+	9750 2250 7950 2250
 Wire Wire Line
-	7950 2200 7950 2150
+	7950 2250 7950 2150
 Wire Wire Line
-	6600 2300 7450 2300
+	6600 2450 7450 2450
 Wire Wire Line
 	6600 3200 6850 3200
 Wire Wire Line
 	3750 2150 5750 2150
 Wire Wire Line
-	5750 2150 5750 1150
+	5750 2150 5750 1200
 Wire Wire Line
-	5750 1150 7450 1150
+	5750 1200 7450 1200
 Wire Wire Line
-	7450 1150 7450 1250
+	7450 1200 7450 1250
 Wire Wire Line
 	3350 1250 3350 1200
 Wire Wire Line
-	3350 1050 7650 1050
+	3350 1100 7650 1100
 Wire Wire Line
-	7650 1050 7650 1250
+	7650 1100 7650 1250
 Wire Wire Line
 	7550 1250 7550 1000
 Wire Wire Line
@@ -622,9 +622,9 @@ Wire Wire Line
 Wire Wire Line
 	3050 1250 3050 900 
 Wire Wire Line
-	3050 850  7350 850 
+	3050 900  7350 900 
 Wire Wire Line
-	7350 850  7350 1250
+	7350 900  7350 1250
 Wire Wire Line
 	7250 1250 7250 800 
 Wire Wire Line
@@ -641,8 +641,6 @@ Wire Wire Line
 Wire Wire Line
 	2300 900  3050 900 
 Connection ~ 3050 900 
-Wire Wire Line
-	3050 900  3050 850 
 Text HLabel 2300 1000 0    50   Input ~ 0
 SERIN
 Wire Wire Line
@@ -660,7 +658,7 @@ Wire Wire Line
 	2300 1200 3350 1200
 Connection ~ 3350 1200
 Wire Wire Line
-	3350 1200 3350 1050
+	3350 1200 3350 1100
 Text HLabel 2300 1200 0    50   Input ~ 0
 nSRCLR
 Wire Wire Line
@@ -762,21 +760,21 @@ F 3 "" H 2650 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 Text Notes 1450 4900 0    50   ~ 0
-Durchmesser 13 mm\n6 mm Höhe\n2 Wdg
+inner diameter 13 mm\n6 mm length\n2 turns
 Text Notes 2500 4900 0    50   ~ 0
-Durchmesser 13 mm\n6 mm Höhe\n3 Wdg
+inner diameter 13 mm\n6 mm length\n3 turns
 Text Notes 3600 4900 0    50   ~ 0
-Durchmesser 13 mm\n5 mm Höhe\n4 Wdg
+inner diameter 13 mm\n5 mm length\n4 turns
 Text Notes 4650 4900 0    50   ~ 0
-Durchmesser 13 mm\n7 mm Höhe\n6 Wdg
+inner diameter 13 mm\n7 mm length\n6 turns
 Text Notes 5750 4900 0    50   ~ 0
-Durchmesser 13 mm\n9 mm Höhe\n9 Wdg
+inner diameter 13 mm\n9 mm length\n9 turns
 Text Notes 6850 4900 0    50   ~ 0
-Durchmesser 13 mm\n15 mm Höhe\n15 Wdg
+inner diameter 13 mm\n15 mm length\n15 turns
 Text Notes 7850 4900 0    50   ~ 0
-Durchmesser 13 mm\n28 mm Höhe\n27 Wdg
+inner diameter 13 mm\n28 mm length\n27 turns
 Text Notes 8900 4900 0    50   ~ 0
-Durchmesser 15 mm\n42 mm Höhe\n40 Wdg
+inner diameter 15 mm\n42 mm length\n40 turns
 $Comp
 L ATU_0-rescue:HFD2-L2-flipdotUSV-cache RL?
 U 1 1 5D6ADAAE
@@ -1021,4 +1019,6 @@ Text Label 8600 3500 0    50   ~ 0
 TX78
 Text Label 9700 3500 0    50   ~ 0
 TX8ANT
+Text Notes 4000 5350 0    50   ~ 0
+All coils are self-supported air core coils\n(enameled magnet wire, 1mm² (AWG17), mechanically stabilized with a coating of epoxy resin adhesive)
 $EndSCHEMATC
